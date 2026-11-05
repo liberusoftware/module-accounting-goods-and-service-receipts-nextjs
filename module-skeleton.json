@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-goods-and-service-receipts-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-goods-and-service-receipts",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-goods-and-service-receipts-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/goods-and-service-receipts.md",
+  "presentationPlan": "projects/accounting/nextjs/goods-and-service-receipts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
